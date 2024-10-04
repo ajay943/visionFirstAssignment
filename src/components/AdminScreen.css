@@ -1,0 +1,28 @@
+
+button.edit-btn {
+    background-color: indigo;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  button.delete-btn {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  button.approve-btn {
+    background-color: orange;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+  button:hover {
+    opacity: 0.9;
+  }
